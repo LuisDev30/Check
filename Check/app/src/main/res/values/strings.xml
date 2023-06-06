@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReciFardas</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="textoExemplo">Desde 2014 trazendo um conceito diferenciado em fardamentos profissionais 😄 buscamos sempre levar a melhor vestimenta para os ambientes de trabalho, Porque um funcionário bem cuidado e bem vestido é um funcionário mais motivado e produtivo😉 </string>
+    <string name="msgError">User error</string>
+</resources>
